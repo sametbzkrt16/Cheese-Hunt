@@ -1,0 +1,62 @@
+
+# Build çıktıları (exe, apk, vs.)
+[Bb]uild/
+[Bb]uilds/
+*.exe
+*.apk
+*.aab
+*.app
+*.ipa
+*.msi
+*.webm
+
+# Unity'nin çalışma dosyaları
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Kullanıcı ayarları
+UserSettings/
+
+# Visual Studio cache ve proje dosyaları
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Asset Store cache
+[Aa]ssets/[Aa]sset[Ss]tore/
+
+# Paket cache
+[Pp]ackages/com.unity.package-manager*
+
+# İşletim sistemine özel dosyalar
+.DS_Store
+Thumbs.db
+*.log
+
+# Test ve diğer geçici dosyalar
+*.coverage
+*.coverageinfo
+*.stacktrace
+sysinfo.txt
+
+# Rider (JetBrains) IDE için
+.idea/
+*.iml
+
+# Diğer cache dosyaları
+*.cache
+*.bak
+*.bak2
+*.old
+*.orig
